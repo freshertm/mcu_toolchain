@@ -1,5 +1,6 @@
 # My MCU toolchain.
 This is prepared toolchain with some MCU i worked.
+THere are STM32F407VGT and K1921VK01T now supported.
 
 ## Using: 
  - copy "cmake" folder to your project. 
